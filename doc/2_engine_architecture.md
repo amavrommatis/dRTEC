@@ -11,10 +11,10 @@ dRTEC keeps a state of the former windows in an [Apache Spark SQL](http://spark.
 
 <br />
 <br />
-![figure not available](doc/architecture.png)
+![figure not available](architecture.png)
 <br />
 <br />
 
 
 The description of the dRTEC architecture is only for comprehensing the engine's functionality. The programmer has access only in the 
-[Classes and Data Types](doc/2_1_classes_and_data_types.md), that are described in next section.
+[Classes and Data Types](/2_1_classes_and_data_types.md), that are described in next section.

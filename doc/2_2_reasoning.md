@@ -51,4 +51,4 @@ Returns the list of intervals.
 
 <br />
 
-For mοre details of the functions' use, see [Making an Example](doc/3_making_an_example.md) section.
+For mοre details of the functions' use, see [Making an Example](3_making_an_example.md) section.

@@ -22,4 +22,4 @@ terminatedAt(dry_weather(_Id1, Id2)=true, T) :-
 	holdsAt(humidity(Id2)=high, T).
 ```
 
-First we need to create the appropriate definitions for our application (see [Creating a Definition](doc/3_1_creating_a_definition.md)).
+First we need to create the appropriate definitions for our application (see [Creating a Definition](3_1_creating_a_definition.md)).

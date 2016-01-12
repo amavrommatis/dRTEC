@@ -28,7 +28,7 @@ For awaiting the engine execution to terminate for a specific time period
 
 #### Reasoning
 
-The object that contatins the basic functions of the engine inference. For more details see [Reasoning](doc/2_2_reasoning.md) section
+The object that contatins the basic functions of the engine inference. For more details see [Reasoning](2_2_reasoning.md) section
 
 #### Predicate 
 
